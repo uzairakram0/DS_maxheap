@@ -1,0 +1,91 @@
+UZAIR AKRAM
+ASSIGNMENT4
+maxheap.cpp
+function: void MaxHeap::insert(int element)
+The function insert appends the node at the back of the heap and calls heapifies up from the back bottom of heap.
+
+function: int MaxHeap::deleteMax()
+The function deleteMax deletes the maximum element at the root of the heap and returns the element deleted. It assigns the last element from the bottom of heap to the top and heapifies down correcting all heap violations.
+
+function: void MaxHeap::heapifyUp(int index)
+The function checks the child against its parent and if the child is larger it switches with the parent recurrsively till the child is no longer bigger than the parent or is at the root.
+
+function: void MaxHeap::heapifyDown(int index)
+The function checks if the parent has a child bigger than it. If there is a child biggger the parent swaps with child so the child becomes the parent and parent a child. It then recursively checks the parent against its new children till it no longer violates heap.
+
+function: void MaxHeap::buildHeap(vector<int> A,int n)
+The function inserts all the element from the input into the heap.
+
+function: void MaxHeap::heapsort(vector<int>& A,int n)
+The function removes the first builds the heap and then clears the vector passed in so it can be reinserted with sorted output, it then starts deleting maximum elements from the heap till there is nothing left and appends the element to a temporary vector in descending order. The function itterates through the temporary vector backwards adding values to the output vector in ascending order.
+
+function: int MaxHeap::size()
+Auxilary function that returns the size of the vector/heap or number of elements in container.
+
+function: int MaxHeap::left(int parent)
+Auxilary function return the index of left-child of a node.
+
+function: int MaxHeap::right(int parent)
+Auxilary function return the index of right-child of a node.
+
+function: int MaxHeap::parent(int child)
+Auxilary function return the index of parent of a node.
+
+function: void swap(int&a, int&b)
+Auxillary function to swap two elements.
+
+****************************************BONUS****************************************
+My previous method of insertion was adding to the front of the vector and it took very long, I switched to creating a temporary vector in descending order and then itterated through it backwarsd to get an ascending order into my output vector. Which was much more efficient.
+To
+========================================
+
+
+
+
+real    0m10.150s
+user    0m9.813s
+sys    0m0.181s
+
+
+from
+========================================
+
+
+
+
+real    11m19.754s
+user    11m2.542s
+sys    0m4.469s
+
+
+/********************Min implementaation************************/
+//cpp file//
+void MaxHeap::heapifyMinDown(int index) {
+int small = index;
+
+if(left(index) < (arr.size()) && arr[left(index)] < arr[index])
+bigger = (arr[left(index)] < arr[right(index)]) ? left(index) : right(index);
+if(right(index) < (arr.size()) && arr[right(index)] < arr[index])
+bigger = (arr[right(index)] < arr[left(index)]) ? right(index) : left(index);
+//if the bigger hasn't changed
+if (bigger != index){
+swap(arr[index], arr[bigger]);      //swap parent with its superior
+heapifyDown(bigger);                //recursively check for heap violation
+}
+
+}
+
+int MaxHeap:: deleteMin() {
+int deleted = arr[0];               //get min to be deleted
+arr[0] = arr[arr.size() - 1];       //assign last element to root
+arr.pop_back();                     //remove last element
+heapifyMinDown(0);                  //heapify down from root
+return deleted;
+}
+
+//hpp file//
+void heapifyMinDown(int index);
+int deleteMin();
+
+
+!!!must be added to header file  and cpp file!!!

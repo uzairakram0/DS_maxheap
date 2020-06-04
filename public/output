@@ -1,0 +1,1210 @@
+inputs/input.10.1
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+7 3 6 10 6 11 3 19 13 9 
+And this is the sorted output:
+0 3 3 6 6 7 9 10 11 13 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.10.2
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+1 10 18 5 20 11 11 6 17 12 
+And this is the sorted output:
+1757664739 1 5 6 10 11 11 12 17 18 
+Checking if the output is actually sorted ...
+Output is NOT SORTED: 1757664739 is greater than 1(index 1)
+========================================
+
+
+
+inputs/input.10.3
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+9 20 19 1 4 1 12 4 15 19 
+And this is the sorted output:
+0 1 1 4 4 9 12 15 19 19 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.10.4
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+8 5 18 7 15 12 20 8 13 11 
+And this is the sorted output:
+0 5 7 8 8 11 12 13 15 18 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.10.5
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+9 1 9 16 2 5 5 18 9 2 
+And this is the sorted output:
+0 1 2 2 5 5 9 9 9 16 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100.1
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100.2
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100.3
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100.4
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100.5
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.1000.1
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.1000.2
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+Output is NOT SORTED: 859179570 is greater than 1(index 1)
+========================================
+
+
+
+inputs/input.1000.3
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.1000.4
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+Output is NOT SORTED: 842074680 is greater than 1(index 1)
+========================================
+
+
+
+inputs/input.1000.5
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.10000.1
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.10000.2
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.10000.3
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.10000.4
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.10000.5
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100000.1
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100000.2
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100000.3
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100000.4
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.100000.5
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.1000000.1
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.1000000.2
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.1000000.3
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.1000000.4
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+inputs/input.1000000.5
+========================================
+Trying some methods from the MaxHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MaxHeap:- 700 
+insert 500
+MaxHeap:- 700 500 
+insert 100
+MaxHeap:- 700 500 100 
+insert 800
+MaxHeap:- 800 700 100 500 
+insert 200
+MaxHeap:- 800 700 200 500 100 
+insert 400
+MaxHeap:- 800 700 400 500 100 200 
+insert 900
+MaxHeap:- 900 800 400 700 100 200 500 
+Get and delete max element: 900
+MaxHeap:- 800 700 400 500 100 200 
+Get and delete max element: 800
+MaxHeap:- 700 500 400 200 100 
+Get and delete max element: 700
+MaxHeap:- 500 400 100 200 
+========================================
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
